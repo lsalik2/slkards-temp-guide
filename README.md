@@ -1,6 +1,6 @@
 # **SLKARDS: The Ultimate Guide**
 
-Welcome to the comprehensive guide for **SLKARDS**, your go-to resource for everything you need to know about the Discord-based trading kard game. Whether you're a new player eager to learn the ropes or a seasoned duelist looking to refine your strategies, this guide covers all aspects of SLKARDS, including battling, trading, commands, minigames, spawn times, and more.
+Welcome to the comprehensive guide for **SLKARDS**, your go-to resource for everything you need to know about the Discord-based trading card game. Whether you're a new player eager to learn the ropes or a seasoned duelist looking to refine your strategies, this guide covers all aspects of SLKARDS, including battling, trading, commands, minigames, spawn times, and more.
 
 ---
 
