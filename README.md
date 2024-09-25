@@ -215,7 +215,7 @@ Each kard can be expressed visually through Discord's embed system. This will be
 - **Image**: Visual representation of the kard.
 - **Owner and Count**: Shows the kard's owner, and its ID along with the total amount of kards in the game.
 
-![Kard Embed Example](https://raw.githubusercontent.com/lsalik2/slkards/refs/heads/test/guide/embed_example.png?token=GHSAT0AAAAAACTWLCX7I57L3SFNCXJYCVXIZXUOMBA)
+![Kard Embed Example](https://raw.githubusercontent.com/lsalik2/slkards-temp-guide/refs/heads/main/guide/embed_example.png)
 
 ---
 
@@ -295,7 +295,7 @@ Each attack will also have a ±3% attack damage variation to keep things interes
 
 Understanding the strengths and weaknesses between series is crucial for strategic battling. Each series can deal super-effective (2x damage) or not effective (1/2x damage) attacks to another series. This is decided by the series type chart below:
 
-![Series Type Chart](https://raw.githubusercontent.com/lsalik2/slkards/refs/heads/test/guide/type_chart.png?token=GHSAT0AAAAAACTWLCX7XGXW6PIFPQVNPVIKZXUOMCQ)
+![Series Type Chart](https://raw.githubusercontent.com/lsalik2/slkards-temp-guide/refs/heads/main/guide/type_chart.png)
 
 This multiplier is hugely impactful when battling. Switching into a kard may cost a turn, but by switching into a kard that has a defensive advantage against your opponent (aka forces them to deal 1/2x damage) can be enough to turn the tide of battle. For a player to be considered a top duelist, they need to be aware of these series' matchups as best as they can! The best duelists will be aware of these matchups even when drafting kards...
 
