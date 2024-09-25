@@ -152,7 +152,7 @@ Kards with modifiers are anomalies, which are also rare. As of version 1.0, ther
 
 ## **4. Capturing a Kard**
 
-Kards spawn randomly in a designated channel for the server. The period for kard spawns will vary between 1 to 3 hours. Additionally, kards with higher rarity will spawn much more scarcely than common kards. Once a kard spawns, a player can attempt to capture it. They will be required to participate in one of nine minigames. Each of these minigames are meant to test a different skill, and they will be selected at random during each spawn, so the best players will have to understand how every minigame works!
+Kards spawn randomly in a designated channel for the server. The period for kard spawns will vary between 1 to 3 hours. Additionally, kards with higher rarity will spawn much more scarcely than common kards. Once a kard spawns, a player can attempt to capture it. They will be required to participate in one of nine minigames. Each of these minigames are meant to test a different skill, and they all have the same chance to trigger when a card spawns, so the best players will have to understand how every minigame works!
 
 ### **Trivia Quiz**
 
