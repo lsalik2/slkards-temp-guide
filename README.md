@@ -330,7 +330,7 @@ To balance out **SKILL**s, they need to meet a hidden condition before they can 
 
 - Get hit by a weak attack twice in a row.
 - Get hit a with a critical hit.
-- Get hit with a super-effective attack twice in a row.
+- Get hit with a super-effective attack.
 - Hit a weak attack.
 - Hit a critical hit twice in a row.
 - Switch in kard with modifier.
