@@ -88,11 +88,11 @@ Each kard is unique from another. Along with their different images and names, k
 
 | Rarity       | Stars | Example Kards       |   Quantity  |
 |--------------|-------|---------------------|--------------------|
-| Common       | ⭐     | #95 - Ghost       |  70  |
-| Uncommon     | ⭐⭐   | #113 - Ryuk       |  58  |
-| Rare         | ⭐⭐⭐ | #151 - Fruit Salad |  63  |
-| Epic         | ⭐⭐⭐⭐| #174 - Chimera Mutt |  22  |
-| Legendary    | ⭐⭐⭐⭐⭐| SECRET |  8  |
+| Common       | ⭐     | #95 - Ghost       |  77  |
+| Uncommon     | ⭐⭐   | #113 - Ryuk       |  66  |
+| Rare         | ⭐⭐⭐ | #151 - Fruit Salad |  68  |
+| Epic         | ⭐⭐⭐⭐| #174 - Chimera Mutt |  41  |
+| Legendary    | ⭐⭐⭐⭐⭐| SECRET |  12  |
 
 Kards that have a higher rarity will spawn very scarcely, and hold a lot more value than a lower rarity kard. They also have slight advantages when battling. Each series has at least one 4-star kard, but not every series has a 5-star.
 
@@ -110,8 +110,9 @@ Kards that have a higher rarity will spawn very scarcely, and hold a lot more va
 - **Cursed**: These kards represent haunted and eerie entities and locations. Each description forms part of a storyline, so try to collect them all for an easter egg!
 - **The Backrooms**: These kards represent different levels that can be found in The Backrooms.
 - **Paranormal**: These kards represent entities and objects that are seemingly otherworldly. The float around the universe, waiting to be found by a lucky (or unlucky) being.
+- **SECRET**: These kards are a secret. Work towards prestiging to figure out what it is.
 
-As of version 1.0, there are 12 series in the game, with plans to add more soon. Series can deal more/less damage to each other in battles, according to a type chart that can be seen further below in the battling section.
+As of version 0.5, there are 13 series in the game, with plans to add more soon. Series can deal more/less damage to each other in battles, according to a type chart that can be seen further below in the battling section.
 
 #### Modifiers List
 
@@ -122,7 +123,7 @@ As of version 1.0, there are 12 series in the game, with plans to add more soon.
 - **Sketched**: Kards that have sketches or drawings. There are 6 kards with this modifier.
 - **Animated**: Kards that are animated, with moving images. There are 22 kards with this modifier.
 
-Kards with modifiers are anomalies, which are also rare. As of version 1.0, there are currently 51 kards with modifiers. These modifiers play a big part in battling, so make sure to always have a couple in your collection, but keep in mind they can have adverse effects...
+Kards with modifiers are anomalies, which are also rare. As of version 0.5, there are currently 62 kards with modifiers. These modifiers play a big part in battling, so make sure to always have a couple in your collection, but keep in mind they can have adverse effects...
 
 ## **3. Commands and Features**
 
@@ -173,11 +174,6 @@ Kards spawn randomly in a designated channel for the server. The period for kard
 
 - **Objective**: Solve the math equation.
 - **How to Play**: Once the bot posts the equation, the first player to solve it and answer correctly will capture the kard. For example, for the equation `"23 * 4"`, the first player to answer `92` captures the kard.
-
-### **Reaction Race**
-
-- **Objective**: React as quickly as possible.
-- **How to Play**: The bot will send either a `GO` or `NO` message. After the `GO` signal, the first player to type back GO wins the round. Win three rounds to capture the kard. But don't type anything during a `NO` signal, as that will skip your next turn!"
 
 ### **Flag Frenzy**
 
