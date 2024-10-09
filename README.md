@@ -82,7 +82,7 @@ SLKARDS is a dynamic collectible kard game integrated into a Discord bot, where 
 
 ### **Kards Breakdown**
 
-Each kard is unique from another. Along with their different images and names, kards differ from each other in rarity, series and modifiers. These traits also add strategic depth to battle, as it will be explained further below. As of version 1.0, there are 220 obtainable kards in the game, with plans to add more in the future.
+Each kard is unique from another. Along with their different images and names, kards differ from each other in rarity, series and modifiers. These traits also add strategic depth to battle, as it will be explained further below. As of version 1.0, there are 277 obtainable kards in the game, with plans to add more in the future.
 
 #### Rarity Chart
 
@@ -94,7 +94,7 @@ Each kard is unique from another. Along with their different images and names, k
 | Epic         | ⭐⭐⭐⭐| #174 - Chimera Mutt |  41  |
 | Legendary    | ⭐⭐⭐⭐⭐| SECRET |  12  |
 
-Kards that have a higher rarity will spawn very scarcely, and hold a lot more value than a lower rarity kard. They also have slight advantages when battling. Each series has at least one 4-star kard, but not every series has a 5-star.
+Kards that have a higher rarity will spawn very scarcely, and hold a lot more value than a lower rarity kard. They also have slight advantages when battling. Each series has seven 1-star, six 2-stars, five 3-stars, three 4-stars and one 5-stars (except for Ultimate Arcana, which has thirteen 3-stars, eight 4-stars and one 5-stars).
 
 #### Series List
 
@@ -116,11 +116,11 @@ As of version 0.5, there are 13 series in the game, with plans to add more soon.
 
 #### Modifiers List
 
-- **Negative**: Kards that have inverted colors or are in black and white. There are 6 kards with this modifier.
-- **Polychrome**: Kards that have rainbows or holographic effects. There are 6 kards with this modifier.
-- **16-Bit**: Kards that have pixelated effects. There are 5 kards with this modifier.
-- **Glitched**: Kards that have glitchy effects. There are 6 kards with this modifier.
-- **Sketched**: Kards that have sketches or drawings. There are 6 kards with this modifier.
+- **Negative**: Kards that have inverted colors or are in black and white. There are 9 kards with this modifier.
+- **Polychrome**: Kards that have rainbows or holographic effects. There are 9 kards with this modifier.
+- **16-Bit**: Kards that have pixelated effects. There are 7 kards with this modifier.
+- **Glitched**: Kards that have glitchy effects. There are 8 kards with this modifier.
+- **Sketched**: Kards that have sketches or drawings. There are 7 kards with this modifier.
 - **Animated**: Kards that are animated, with moving images. There are 22 kards with this modifier.
 
 Kards with modifiers are anomalies, which are also rare. As of version 0.5, there are currently 62 kards with modifiers. These modifiers play a big part in battling, so make sure to always have a couple in your collection, but keep in mind they can have adverse effects...
