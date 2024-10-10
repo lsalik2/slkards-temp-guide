@@ -82,7 +82,7 @@ SLKARDS is a dynamic collectible kard game integrated into a Discord bot, where 
 
 ### **Kards Breakdown**
 
-Each kard is unique from another. Along with their different images and names, kards differ from each other in rarity, series and modifiers. These traits also add strategic depth to battle, as it will be explained further below. As of version 1.0, there are 277 obtainable kards in the game, with plans to add more in the future.
+Each kard is unique from another. Along with their different images and names, kards differ from each other in rarity, series and modifiers. These traits also add strategic depth to battle, as it will be explained further below. As of version 0.6, there are 277 obtainable kards in the game, with plans to add more in the future.
 
 #### Rarity Chart
 
@@ -112,7 +112,7 @@ Kards that have a higher rarity will spawn very scarcely, and hold a lot more va
 - **Paranormal**: These kards represent entities and objects that are seemingly otherworldly. The float around the universe, waiting to be found by a lucky (or unlucky) being.
 - **SECRET**: These kards are a secret. Work towards prestiging to figure out what it is.
 
-As of version 0.5, there are 13 series in the game, with plans to add more soon. Series can deal more/less damage to each other in battles, according to a type chart that can be seen further below in the battling section.
+As of version 0.6, there are 13 series in the game, with plans to add more soon. Series can deal more/less damage to each other in battles, according to a type chart that can be seen further below in the battling section.
 
 #### Modifiers List
 
@@ -123,7 +123,7 @@ As of version 0.5, there are 13 series in the game, with plans to add more soon.
 - **Sketched**: Kards that have sketches or drawings. There are 7 kards with this modifier.
 - **Animated**: Kards that are animated, with moving images. There are 22 kards with this modifier.
 
-Kards with modifiers are anomalies, which are also rare. As of version 0.5, there are currently 62 kards with modifiers. These modifiers play a big part in battling, so make sure to always have a couple in your collection, but keep in mind they can have adverse effects...
+Kards with modifiers are anomalies, which are also rare. As of version 0.6, there are currently 62 kards with modifiers. These modifiers play a big part in battling, so make sure to always have a couple in your collection, but keep in mind they can have adverse effects...
 
 ## **3. Commands and Features**
 
